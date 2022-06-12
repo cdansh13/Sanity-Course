@@ -17,7 +17,7 @@ export default function Home({ blogs }) {
   const builder = imageUrlBuilder(client)
   
   useEffect(() => {
-    console.log("thsnks") 
+    console.log("thanks") 
     
   }, [])
   
